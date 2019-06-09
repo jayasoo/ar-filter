@@ -13,3 +13,6 @@ Download the dataset and add it in the project directory.
 Training: ```python train.py```
 
 Apply filter to the webcam feed by running ```python filter_cam.py```
+
+## Sample output
+![sample output](sample/output.gif)
